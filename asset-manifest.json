@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/nasa_astronomy_picture_of_the_day/static/css/main.f0e820a8.chunk.css",
+    "main.js": "/nasa_astronomy_picture_of_the_day/static/js/main.0361d0d9.chunk.js",
+    "main.js.map": "/nasa_astronomy_picture_of_the_day/static/js/main.0361d0d9.chunk.js.map",
+    "runtime-main.js": "/nasa_astronomy_picture_of_the_day/static/js/runtime-main.ec3517d3.js",
+    "runtime-main.js.map": "/nasa_astronomy_picture_of_the_day/static/js/runtime-main.ec3517d3.js.map",
+    "static/js/2.224b8360.chunk.js": "/nasa_astronomy_picture_of_the_day/static/js/2.224b8360.chunk.js",
+    "static/js/2.224b8360.chunk.js.map": "/nasa_astronomy_picture_of_the_day/static/js/2.224b8360.chunk.js.map",
+    "index.html": "/nasa_astronomy_picture_of_the_day/index.html",
+    "static/css/main.f0e820a8.chunk.css.map": "/nasa_astronomy_picture_of_the_day/static/css/main.f0e820a8.chunk.css.map",
+    "static/js/2.224b8360.chunk.js.LICENSE.txt": "/nasa_astronomy_picture_of_the_day/static/js/2.224b8360.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec3517d3.js",
+    "static/js/2.224b8360.chunk.js",
+    "static/css/main.f0e820a8.chunk.css",
+    "static/js/main.0361d0d9.chunk.js"
+  ]
+}
