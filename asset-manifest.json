@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/nasa_astronomy_picture_of_the_day/static/css/main.f0e820a8.chunk.css",
-    "main.js": "/nasa_astronomy_picture_of_the_day/static/js/main.0361d0d9.chunk.js",
-    "main.js.map": "/nasa_astronomy_picture_of_the_day/static/js/main.0361d0d9.chunk.js.map",
+    "main.js": "/nasa_astronomy_picture_of_the_day/static/js/main.4d72a370.chunk.js",
+    "main.js.map": "/nasa_astronomy_picture_of_the_day/static/js/main.4d72a370.chunk.js.map",
     "runtime-main.js": "/nasa_astronomy_picture_of_the_day/static/js/runtime-main.ec3517d3.js",
     "runtime-main.js.map": "/nasa_astronomy_picture_of_the_day/static/js/runtime-main.ec3517d3.js.map",
     "static/js/2.224b8360.chunk.js": "/nasa_astronomy_picture_of_the_day/static/js/2.224b8360.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.ec3517d3.js",
     "static/js/2.224b8360.chunk.js",
     "static/css/main.f0e820a8.chunk.css",
-    "static/js/main.0361d0d9.chunk.js"
+    "static/js/main.4d72a370.chunk.js"
   ]
 }
