@@ -6,7 +6,7 @@ function App() {
   const [picture, setPicture] = useState([]);
 // console.log(picture);
   useEffect(() => {
-    fetch(`https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY&start_date=2021-03-26`)
+    fetch(`https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY&start_date=2021-03-28`)
       
       .then(response => response.json())
       .then(responseData => {
