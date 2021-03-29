@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Deepak3211/nasa_astronomy_picture_of_the_day/static/css/main.f0e820a8.chunk.css",
-    "main.js": "/Deepak3211/nasa_astronomy_picture_of_the_day/static/js/main.8006ddfa.chunk.js",
-    "main.js.map": "/Deepak3211/nasa_astronomy_picture_of_the_day/static/js/main.8006ddfa.chunk.js.map",
-    "runtime-main.js": "/Deepak3211/nasa_astronomy_picture_of_the_day/static/js/runtime-main.0b751c84.js",
-    "runtime-main.js.map": "/Deepak3211/nasa_astronomy_picture_of_the_day/static/js/runtime-main.0b751c84.js.map",
-    "static/js/2.224b8360.chunk.js": "/Deepak3211/nasa_astronomy_picture_of_the_day/static/js/2.224b8360.chunk.js",
-    "static/js/2.224b8360.chunk.js.map": "/Deepak3211/nasa_astronomy_picture_of_the_day/static/js/2.224b8360.chunk.js.map",
-    "index.html": "/Deepak3211/nasa_astronomy_picture_of_the_day/index.html",
-    "static/css/main.f0e820a8.chunk.css.map": "/Deepak3211/nasa_astronomy_picture_of_the_day/static/css/main.f0e820a8.chunk.css.map",
-    "static/js/2.224b8360.chunk.js.LICENSE.txt": "/Deepak3211/nasa_astronomy_picture_of_the_day/static/js/2.224b8360.chunk.js.LICENSE.txt"
+    "main.css": "/nasa_astronomy_picture_of_the_day/static/css/main.f0e820a8.chunk.css",
+    "main.js": "/nasa_astronomy_picture_of_the_day/static/js/main.26f0226e.chunk.js",
+    "main.js.map": "/nasa_astronomy_picture_of_the_day/static/js/main.26f0226e.chunk.js.map",
+    "runtime-main.js": "/nasa_astronomy_picture_of_the_day/static/js/runtime-main.ec3517d3.js",
+    "runtime-main.js.map": "/nasa_astronomy_picture_of_the_day/static/js/runtime-main.ec3517d3.js.map",
+    "static/js/2.224b8360.chunk.js": "/nasa_astronomy_picture_of_the_day/static/js/2.224b8360.chunk.js",
+    "static/js/2.224b8360.chunk.js.map": "/nasa_astronomy_picture_of_the_day/static/js/2.224b8360.chunk.js.map",
+    "index.html": "/nasa_astronomy_picture_of_the_day/index.html",
+    "static/css/main.f0e820a8.chunk.css.map": "/nasa_astronomy_picture_of_the_day/static/css/main.f0e820a8.chunk.css.map",
+    "static/js/2.224b8360.chunk.js.LICENSE.txt": "/nasa_astronomy_picture_of_the_day/static/js/2.224b8360.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0b751c84.js",
+    "static/js/runtime-main.ec3517d3.js",
     "static/js/2.224b8360.chunk.js",
     "static/css/main.f0e820a8.chunk.css",
-    "static/js/main.8006ddfa.chunk.js"
+    "static/js/main.26f0226e.chunk.js"
   ]
 }
